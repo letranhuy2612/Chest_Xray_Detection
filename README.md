@@ -6,6 +6,7 @@ Dataset:For each test image, you will be predicting a bounding box and class for
 ## Working
 ![Screenshot 2022-05-05 125905](https://user-images.githubusercontent.com/85574548/166877366-e502c49d-fa8b-4493-b6af-44bcb2bea8ee.png)
 
-Results are definitely wrong due to new train 5 epochs
+Results are definitely wrong 
 Convert file weights pytorch to onnx 
+
 Load file weights onnx with OpenCV and deploy web using Streamlit
